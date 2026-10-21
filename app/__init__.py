@@ -1,0 +1,1 @@
+"""Настольный интерфейс PolyCrystal Analyzer."""

@@ -1,0 +1,15 @@
+numpy==1.26.4
+scipy==1.14.1
+opencv-python==4.10.0.84
+scikit-image==0.24.0
+PySide6==6.8.3
+Pillow==11.1.0
+tifffile==2024.9.20
+torch==2.5.1
+torchvision==0.20.1
+timm==0.9.16
+huggingface_hub==0.27.1
+safetensors==0.5.2
+PyYAML==6.0.2
+networkx==3.4.2
+mobile_sam @ https://github.com/ChaoningZhang/MobileSAM/archive/f706ad9c4eb7f219c00d9050e46328518ffb65d2.zip
